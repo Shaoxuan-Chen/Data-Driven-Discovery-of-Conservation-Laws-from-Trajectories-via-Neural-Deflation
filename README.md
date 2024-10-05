@@ -1,1 +1,1 @@
-This is the arXiv link for the paper: 
+This is the $arXiv$ link for the paper: 
